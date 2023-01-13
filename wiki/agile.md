@@ -16,3 +16,7 @@ title: Agile
 5. Build minimum viable product tests to find what's minimum and viable in the market
 
 Effective stories connect everyone to the purpose or your product
+
+### Beyond Developer -- Dan North
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wYEk0y8LYfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

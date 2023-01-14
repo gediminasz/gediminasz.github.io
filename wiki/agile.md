@@ -20,3 +20,16 @@ Effective stories connect everyone to the purpose or your product
 ### Beyond Developer -- Dan North
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wYEk0y8LYfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Make Impacts, Not Software -- Gojko Adzic
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GnK_n9Udhhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> The easiest way to get zero bugs is to never deliver anything.
+
+Impact mapping:
+
+- Why are we doing this?
+- Who do we want to help? Who are our users, customers, stakeholders?
+- How does their work or behavior change?
+- What can we deliver through software to cause this change in behavior?

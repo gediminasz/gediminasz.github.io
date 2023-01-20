@@ -14,4 +14,5 @@ title: Work
 
 ### X lessons in Y years
 
-- [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
+- [What I’ve Learned in 45 Years in the Software Industry -- Joel Goldberg](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/)
+- [20 Things I’ve Learned in my 20 Years as a Software Engineer --  Justin Etheredge](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)

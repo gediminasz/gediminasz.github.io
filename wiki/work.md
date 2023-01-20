@@ -11,3 +11,7 @@ title: Work
 
 - [The bubble has popped for unprofitable software companies](https://world.hey.com/dhh/the-bubble-has-popped-for-unprofitable-software-companies-2a0a5f57)
 - [Reconsider](https://signalvnoise.com/posts/3972-reconsider)
+
+### X lessons in Y years
+
+- [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)

@@ -33,3 +33,9 @@ Impact mapping:
 - Who do we want to help? Who are our users, customers, stakeholders?
 - How does their work or behavior change?
 - What can we deliver through software to cause this change in behavior?
+
+### Frankenbuilds: If Agile is so Good, Why Are Our Products so Bad? -- Gabrielle Benefield
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2JNXx8VdbAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Outcomes > output.

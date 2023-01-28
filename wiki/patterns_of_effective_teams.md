@@ -3,6 +3,16 @@ layout: default
 title: Patterns of Effective Teams
 ---
 
+### Decisions, Decisions -- Dan North
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EauykEv_2iA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- Spike and Stabilize
+- Short Software Half-Life
+- Ginger Cake, DRY vs decoupled, copy-pasting code
+- Automate something when it is boring
+- Dancing Skeleton
+
 ### Software, Faster -- Dan North
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/USc-yLHXNUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

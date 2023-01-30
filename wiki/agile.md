@@ -3,7 +3,19 @@ layout: default
 title: Agile
 ---
 
-### User Story Mapping: Discover The Whole Story -- Jeff Patton
+### Moving Fast At Scale -- Randy Shoup, 2019
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/suOjtOFfyZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- What problem are you trying to solve?
+- Fewer Things, More Done
+- "We don't have the time to do it right!" "Do you have time to do it **twice**?"
+
+### Beyond Developer -- Dan North, 2017
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wYEk0y8LYfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### User Story Mapping: Discover The Whole Story -- Jeff Patton, 2014
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AzBuohuOU6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -17,11 +29,7 @@ title: Agile
 
 Effective stories connect everyone to the purpose or your product
 
-### Beyond Developer -- Dan North
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wYEk0y8LYfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-### Make Impacts, Not Software -- Gojko Adzic
+### Make Impacts, Not Software -- Gojko Adzic, 2013
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GnK_n9Udhhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -34,7 +42,7 @@ Impact mapping:
 - How does their work or behavior change?
 - What can we deliver through software to cause this change in behavior?
 
-### Frankenbuilds: If Agile is so Good, Why Are Our Products so Bad? -- Gabrielle Benefield
+### Frankenbuilds: If Agile is so Good, Why Are Our Products so Bad? -- Gabrielle Benefield, 2012
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2JNXx8VdbAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

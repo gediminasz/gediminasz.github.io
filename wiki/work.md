@@ -3,9 +3,13 @@ layout: default
 title: Work
 ---
 
-### It Doesn’t Have to be Crazy at Work with Jason Fried
+### It Doesn’t Have to be Crazy at Work -- Jason Fried
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-YG0kMpzL_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Attitude Determines Altitude: Engineering Yourself & Your Teams -- Randy Shoup
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/y1SpwCiRoPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### DHH on startups
 

@@ -11,6 +11,10 @@ title: Work
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/y1SpwCiRoPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### Ten People Can Produce Seven People's Work -- Masahiro Sakurai
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1-iZFmenARA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### DHH on startups
 
 - [The bubble has popped for unprofitable software companies](https://world.hey.com/dhh/the-bubble-has-popped-for-unprofitable-software-companies-2a0a5f57)

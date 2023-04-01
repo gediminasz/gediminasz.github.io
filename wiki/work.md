@@ -15,6 +15,14 @@ title: Work
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1-iZFmenARA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### Urgency Trapping -- Sevan Tuna
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XHRCTwvvGTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+At 2:14:
+
+> If we're always working on only what's urgent without considering the future version of us, whether that future version of us will still have these urgent matters, that's a negative spiral. Because if you're never completing everything, then the list is growing. If you're stuck in urgency, then the list will continue to grow faster than you can clear it. And then that can lead to a lot of burnout, that can lead to a lot of bad habits in terms of procrastination, time, and motivational issues and things like that. But sometimes you gotta bite the bullet and say, 'I'm willing to take this loss in order to put myself in a position where I can then recover that loss later when I don't have so much urgent stuff on my plate.'
+
 ### DHH on startups
 
 - [The bubble has popped for unprofitable software companies](https://world.hey.com/dhh/the-bubble-has-popped-for-unprofitable-software-companies-2a0a5f57)

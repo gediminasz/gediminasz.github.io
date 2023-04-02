@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Operations: Salt'
+title: 'Salt'
 ---
 
 ### Best Practices for Enterprise-Scale SaltStack -- Alexander Thaller

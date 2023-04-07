@@ -3,6 +3,13 @@ layout: default
 title: Creative Tools
 ---
 
+## Diagramming
+
+| name       | description                                               | URL                      | pricing |
+|------------|-----------------------------------------------------------|--------------------------|---------|
+| Excalidraw | Virtual whiteboard for sketching hand-drawn like diagrams | <https://excalidraw.com> | free    |
+
+
 ## 2D
 
 | name     | description                             | URL                        | pricing |

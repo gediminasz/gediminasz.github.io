@@ -3,6 +3,8 @@ layout: default
 title: Code
 ---
 
+- [How To Survive Your Project's First 100,000 Lines](https://verdagon.dev/blog/first-100k-lines)
+
 ### Linus Torvalds on Good Taste
 
 Starts at 14:20.

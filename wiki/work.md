@@ -15,6 +15,10 @@ title: Work
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1-iZFmenARA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### Explain Ideas to Everyone at Once -- Masahiro Sakurai
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CafmzxRBo4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Urgency Trapping -- Sevan Tuna
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XHRCTwvvGTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

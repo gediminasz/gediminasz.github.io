@@ -19,6 +19,11 @@ title: Agile
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BqYlDueY1mg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+- Make People Awesome
+- Deliver Value Continuously
+- Experiment & Learn Rapidly
+- Make Safety a Prerequisite
+
 ### User Story Mapping: Discover The Whole Story -- Jeff Patton, 2014
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AzBuohuOU6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

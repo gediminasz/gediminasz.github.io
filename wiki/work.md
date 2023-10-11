@@ -3,6 +3,10 @@ layout: default
 title: Work
 ---
 
+### When It's More Than "Just a Job": Occupational Identity Management Skills for a Sustainable Career -- Johnanna Ganz, 2022
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LWiFajNkAdo?si=-dpCKUyZ18aVBsdR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### It Doesn’t Have to be Crazy at Work -- Jason Fried
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-YG0kMpzL_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

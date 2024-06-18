@@ -40,3 +40,10 @@ df -h  # find the name of the volume, e.g. /dev/mapper/ubuntu--vg-ubuntu--lv
 lvextend -l +100%FREE /dev/mapper/ubuntu--vg-ubuntu--lv
 resize2fs /dev/mapper/ubuntu--vg-ubuntu--lv
 ```
+
+### How to use `tar`?
+
+```
+tar -czvf dir.tar.gz $some_dir
+tar -xzvf dir.tar.gz
+```

@@ -47,3 +47,22 @@ resize2fs /dev/mapper/ubuntu--vg-ubuntu--lv
 tar -czvf dir.tar.gz $some_dir
 tar -xzvf dir.tar.gz
 ```
+
+### How to reset the root password in Ubuntu 22.04?
+
+1. Boot into the GRUB menu
+1. Press E to edit boot parameters
+1. Replace `ro  quiet splash $vt_handoff` with `rw init=/bin/bash`
+1. Press CTRL + X or F10
+1. Use `mount | grep -w /` to check for read and write access (`/dev/sda5 on type ext4 (rw,realtime)`)
+2. Use `passwd` to change the root password
+
+Source: <https://www.snel.com/support/how-to-reset-the-root-password-in-ubuntu-22-04/>
+
+<details>
+    <summary>Show more</summary>
+    <p><img src="/wiki/assets/how-to-reset-the-root-password-in-ubuntu-22-04/0.png"></p>
+    <p><img src="/wiki/assets/how-to-reset-the-root-password-in-ubuntu-22-04/1.png"></p>
+    <p><img src="/wiki/assets/how-to-reset-the-root-password-in-ubuntu-22-04/2.png"></p>
+</details>
+

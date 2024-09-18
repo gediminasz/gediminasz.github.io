@@ -3,6 +3,8 @@ layout: default
 title: Cheat Sheet
 ---
 
+## Linux
+
 ### How to find which process is using a port?
 
 ```
@@ -66,3 +68,14 @@ Source: <https://www.snel.com/support/how-to-reset-the-root-password-in-ubuntu-2
     <p><img src="/wiki/assets/how-to-reset-the-root-password-in-ubuntu-22-04/2.png"></p>
 </details>
 
+## Python
+
+### How to configure Pyright to use `.venv`?
+
+```json
+{
+    "venvPath": ".venv",
+    "venv": ".",
+    "pythonVersion": "3.12"
+}
+```

@@ -82,4 +82,4 @@ Create `pyrightconfig.json` in your project root:
 }
 ```
 
-Reference: https://github.com/microsoft/pyright/blob/main/docs/configuration.md
+Reference: <https://github.com/microsoft/pyright/blob/main/docs/configuration.md>

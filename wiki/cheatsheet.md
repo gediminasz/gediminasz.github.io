@@ -72,6 +72,8 @@ Source: <https://www.snel.com/support/how-to-reset-the-root-password-in-ubuntu-2
 
 ### How to configure Pyright to use `.venv`?
 
+Create `pyrightconfig.json` in your project root:
+
 ```json
 {
     "venvPath": ".venv",
@@ -79,3 +81,5 @@ Source: <https://www.snel.com/support/how-to-reset-the-root-password-in-ubuntu-2
     "pythonVersion": "3.12"
 }
 ```
+
+Reference: https://github.com/microsoft/pyright/blob/main/docs/configuration.md

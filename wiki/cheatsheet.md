@@ -8,7 +8,7 @@ title: Cheat Sheet
 ### How to find which process is using a port?
 
 ```
-netstat -lp | grep 9090
+netstat -nlp | grep 9090
 ```
 
 ### How to generate a secure ssh key?

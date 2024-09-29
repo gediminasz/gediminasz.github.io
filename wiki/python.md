@@ -3,6 +3,16 @@ layout: default
 title: Python
 ---
 
+## Can I use...
+
+| Feature                                                       | Python version                                                                                   |
+|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| f-strings                                                     | [3.6](https://docs.python.org/3/whatsnew/3.6.html#pep-498-formatted-string-literals)             |
+| walrus operator aka `:=`                                      | [3.8](https://docs.python.org/3/whatsnew/3.8.html#assignment-expressions)                        |
+| Type Hinting Generics in Standard Collections aka `list[str]` | [3.9](https://docs.python.org/3/whatsnew/3.9.html#type-hinting-generics-in-standard-collections) |
+
+---
+
 <h2>Editing</h2>
 <dl>
     <dt><a href="https://code.visualstudio.com">Visual Studio Code</a></dt>

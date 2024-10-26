@@ -9,6 +9,14 @@ title: Bioinformatics
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kl_2aOxIqSw?si=HRoeqdBhTqhRkPvf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### From DNA to protein, 2022
+
+<iframe width="260" height="146" src="https://www.youtube-nocookie.com/embed/_otIWBnybqk?si=w1OEMGkD-9xpnW00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="260" height="146" src="https://www.youtube-nocookie.com/embed/rgFaf-oFeGs?si=sw4BvHMei7VTBWI2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="260" height="146" src="https://www.youtube-nocookie.com/embed/QnQHS_iDTdo?si=CTKqUGkOiw9048T9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### The protein folding problem: a major conundrum of science -- Ken Dill, 2013
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zm-3kovWpNQ?si=i9IESINPLyDGxZvR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

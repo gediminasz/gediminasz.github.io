@@ -68,6 +68,14 @@ Source: <https://www.snel.com/support/how-to-reset-the-root-password-in-ubuntu-2
     <p><img src="/wiki/assets/how-to-reset-the-root-password-in-ubuntu-22-04/2.png"></p>
 </details>
 
+### How to calculate a checksum for a whole directory?
+
+Using hashdeep:
+
+```sh
+md5deep -r -l ${DIRECTORY} | sort | md5sum
+```
+
 ## Python
 
 ### How to configure Pyright to use `.venv`?

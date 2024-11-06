@@ -10,6 +10,7 @@ title: Python
 | f-strings                                                     | [3.6](https://docs.python.org/3/whatsnew/3.6.html#pep-498-formatted-string-literals)             |
 | walrus operator aka `:=`                                      | [3.8](https://docs.python.org/3/whatsnew/3.8.html#assignment-expressions)                        |
 | Type Hinting Generics in Standard Collections aka `list[str]` | [3.9](https://docs.python.org/3/whatsnew/3.9.html#type-hinting-generics-in-standard-collections) |
+| Type union operator aka `int \| float`                         | [3.10](https://docs.python.org/3/whatsnew/3.10.html#pep-604-new-type-union-operator)             |
 
 ---
 

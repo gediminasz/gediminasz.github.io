@@ -91,3 +91,18 @@ Create `pyrightconfig.json` in your project root:
 ```
 
 Reference: <https://github.com/microsoft/pyright/blob/main/docs/configuration.md>
+
+## Data
+
+### How to read Parquet files using DuckDB?
+
+```
+conda install duckdb-cli
+
+SET autoinstall_known_extensions=1;
+SET autoload_known_extensions=1;
+
+SELECT * FROM 'test.parquet';
+```
+
+Reference: <https://duckdb.org/docs/data/parquet/overview.html>

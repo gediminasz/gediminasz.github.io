@@ -33,11 +33,27 @@ def f():
     ...
 ```
 
+<https://pyinstrument.readthedocs.io/en/latest/guide.html#profile-a-specific-chunk-of-code>
+
 ### [line_profiler](https://github.com/pyutils/line_profiler)
 
-```
+```sh
 pip install line_profiler
 ```
+
+```py
+import line_profiler
+
+line_profiler.profile.enable()  # or set the environment variable LINE_PROFILE=1
+
+@line_profiler.profile
+def f():
+    ...
+
+# cat profile_output.txt
+```
+
+<https://github.com/pyutils/line_profiler?tab=readme-ov-file#quick-start-modern>
 
 ### PyTorch
 

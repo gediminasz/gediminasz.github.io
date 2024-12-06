@@ -18,8 +18,19 @@ title: Python
 
 ### [pyinstrument](https://github.com/joerick/pyinstrument)
 
-```
+```sh
 pip install pyinstrument
+```
+
+```py
+import pyinstrument
+
+with pyinstrument.profile():
+    ...
+
+@pyinstrument.profile()
+def f():
+    ...
 ```
 
 ### [line_profiler](https://github.com/pyutils/line_profiler)

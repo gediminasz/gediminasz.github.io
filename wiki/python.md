@@ -14,6 +14,26 @@ title: Python
 
 [^1]: Python 3.8 provides `from __future__ import annotations`
 
+## Debugging
+
+### [pyinstrument](https://github.com/joerick/pyinstrument)
+
+```
+pip install pyinstrument
+```
+
+### [line_profiler](https://github.com/pyutils/line_profiler)
+
+```
+pip install line_profiler
+```
+
+### PyTorch
+
+```
+torch.cuda.set_sync_debug_mode(0)
+```
+
 ---
 
 <h2>Editing</h2>

@@ -27,6 +27,7 @@ title: Creative Tools
 
 ## Other
 
-| name      | description                   | URL                               | pricing |
-|-----------|-------------------------------|-----------------------------------|---------|
-| Effekseer | Particle Effect Creation tool | <https://effekseer.github.io/en/> | free    |
+| name       | description                                                  | URL                               | pricing |
+|------------|--------------------------------------------------------------|-----------------------------------|---------|
+| 1BITDRAGON | A music creation software super easy to use, instant and fun | <https://1bitdragon.com>          | paid    |
+| Effekseer  | Particle Effect Creation tool                                | <https://effekseer.github.io/en/> | free    |

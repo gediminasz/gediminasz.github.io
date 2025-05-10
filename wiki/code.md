@@ -4,6 +4,7 @@ title: Code
 ---
 
 - [How To Survive Your Project's First 100,000 Lines](https://verdagon.dev/blog/first-100k-lines)
+- [The Grug Brained Developer](https://grugbrain.dev)
 
 ### Common Sources Of Programming Frustration -- Timothy Cain, 2024
 

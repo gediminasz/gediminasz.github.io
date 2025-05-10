@@ -3,6 +3,8 @@ layout: default
 title: Architecture
 ---
 
+- [Microservices Are a Tax Your Startup Probably Can’t Afford -- Oleg Pustovit, 2025](https://nexo.sh/posts/microservices-for-startups/)
+
 ### The Only Unbreakable Law, 2022
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5IUj1EZwpJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -7,6 +7,10 @@ title: Work
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nYzwvTSffiY?si=rdINUYplS6xsxo_Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### Good Team Characteristics -- Timothy Cain, 2023
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SrAuoqdl0os?si=C6GZr6LXR4HVarnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### High Performance -- Guenther Steiner, 2023
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7kWOYyA8RAI?si=NReV0Ftr4jY7e8CK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

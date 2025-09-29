@@ -76,6 +76,20 @@ Using hashdeep:
 md5deep -r -l ${DIRECTORY} | sort | md5sum
 ```
 
+### How to fix blurry Slack on Wayland?
+
+```
+cp /usr/share/applications/slack.desktop ~/.local/share/applications/
+```
+
+Edit this line:
+
+```
+Exec=/usr/bin/slack --enable-features=UseOzonePlatform --enable-features=WaylandWindowDecorations --ozone-platform-hint=auto --ozone-platform=wayland %U
+```
+
+Source: <https://wiki.archlinux.org/title/Wayland#Electron>
+
 ## Python
 
 ### How to configure Pyright to use `.venv`?
@@ -106,3 +120,4 @@ SELECT * FROM 'test.parquet';
 ```
 
 Reference: <https://duckdb.org/docs/data/parquet/overview.html>
+

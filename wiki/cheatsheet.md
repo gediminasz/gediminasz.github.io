@@ -90,6 +90,15 @@ Exec=/usr/bin/slack --enable-features=UseOzonePlatform --enable-features=Wayland
 
 Source: <https://wiki.archlinux.org/title/Wayland#Electron>
 
+### How to create a bash alias with autocomplete?
+
+Add this to `~/.bashrc`:
+
+```
+alias c='autoconda run'
+complete -F _command c
+```
+
 ## Python
 
 ### How to configure Pyright to use `.venv`?
@@ -120,4 +129,5 @@ SELECT * FROM 'test.parquet';
 ```
 
 Reference: <https://duckdb.org/docs/data/parquet/overview.html>
+
 

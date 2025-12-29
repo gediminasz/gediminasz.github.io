@@ -90,6 +90,12 @@ Exec=/usr/bin/slack --enable-features=UseOzonePlatform --enable-features=Wayland
 
 Source: <https://wiki.archlinux.org/title/Wayland#Electron>
 
+### How to fix Slack login not working?
+
+```
+xdg-settings set default-url-scheme-handler slack slack.desktop
+```
+
 ### How to create a bash alias with autocomplete?
 
 Add this to `~/.bashrc`:
@@ -129,5 +135,6 @@ SELECT * FROM 'test.parquet';
 ```
 
 Reference: <https://duckdb.org/docs/data/parquet/overview.html>
+
 
 

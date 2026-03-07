@@ -3,6 +3,8 @@ layout: default
 title: Work
 ---
 
+- [How I ship projects at big tech companies -- Sean Goedecke, 2024](https://www.seangoedecke.com/how-to-ship/)
+
 ### High Performance -- James Vowles, 2024
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nYzwvTSffiY?si=rdINUYplS6xsxo_Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -63,9 +63,9 @@ Source: <https://www.snel.com/support/how-to-reset-the-root-password-in-ubuntu-2
 
 <details>
     <summary>Show more</summary>
-    <p><img src="/wiki/assets/how-to-reset-the-root-password-in-ubuntu-22-04/0.png"></p>
-    <p><img src="/wiki/assets/how-to-reset-the-root-password-in-ubuntu-22-04/1.png"></p>
-    <p><img src="/wiki/assets/how-to-reset-the-root-password-in-ubuntu-22-04/2.png"></p>
+    <p><img src="/assets/how-to-reset-the-root-password-in-ubuntu-22-04/0.png"></p>
+    <p><img src="/assets/how-to-reset-the-root-password-in-ubuntu-22-04/1.png"></p>
+    <p><img src="/assets/how-to-reset-the-root-password-in-ubuntu-22-04/2.png"></p>
 </details>
 
 ### How to calculate a checksum for a whole directory?

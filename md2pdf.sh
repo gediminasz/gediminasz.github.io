@@ -3,7 +3,7 @@
 set -eu
 
 relative_path="${1#src/}"
-html_path="out/${relative_path%.md}.html"
+html_path="www/${relative_path%.md}.html"
 
 echo "${1} -> ${html_path}"
 

@@ -2,5 +2,4 @@ build:
 	find src -name '*.md' -exec ./md2pdf.sh {} \;
 
 start:
-	cd out && python3 -m http.server
-
+	cd www && python3 -m http.server

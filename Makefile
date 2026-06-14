@@ -1,2 +1,5 @@
+build:
+	find src -name '*.md' -exec ./md2pdf.sh {} \;
+
 start:
-	bundle exec jekyll serve
+	cd docs && python3 -m http.server

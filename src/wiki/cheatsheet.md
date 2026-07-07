@@ -121,6 +121,12 @@ Create `pyrightconfig.json` in your project root:
 
 Reference: <https://github.com/microsoft/pyright/blob/main/docs/configuration.md>
 
+### How to configure Poetry to use `.venv`?
+
+```
+poetry config virtualenvs.in-project true
+```
+
 ## Data
 
 ### How to read Parquet files using DuckDB?
